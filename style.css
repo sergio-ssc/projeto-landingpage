@@ -95,15 +95,16 @@ header{
 
     form [type="submit"]{
         height: 50px;
-        width: 50%;
+        width: 60%;
         background-color: rgb(132, 14, 201);
         color: white;
         font-weight: bold;
+        text-align: center;
     }
 
     form [type="submit"]:hover{
         cursor: pointer;
-
+        background-color: rgb(70, 7, 106);
     }
 
     input{
