@@ -140,7 +140,9 @@ header{
         }
 
         img{
-            margin-top: 60px;
+            margin-top: 50px;
+            width: 400px;
+            margin-left: 0;
         }
 
         ul{
